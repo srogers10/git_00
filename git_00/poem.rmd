@@ -1,0 +1,69 @@
+---
+title: "git_00"
+author: "Sandra Rogers"
+date: "9/4/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+# Build a Poem with a sequence of commits to the master branch.
+Our project will be done using several commits to the master branch.
+<!-- Do not modify or change any text in "!--" bracketed areas such as this --- these are instructions to
+you, if you change any of this the git program will notice it and compromise your git merging strategy !-->
+
+## First Verse 
+<!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+
+BEAUTIFUL Soup, so rich and green,  
+Waiting in a hot tureen!  
+Who for such dainties would not stoop?  
+Soup of the evening, beautiful Soup!  
+Soup of the evening, beautiful Soup!  
+
+## Second Verse
+<!--Put the first five lines of a poem by Robert Frost here!-->
+
+A neighbor of mine in the village  
+Likes to tell how one spring  
+When she was a girl on the farm, she did  
+A childlike thing.  
+One day she asked her father  
+
+## Third Verse
+<!--Put the first two verses of The Walrus and the Carpenter here!-->
+
+The sun was shining on the sea,  
+Shining with all his might:  
+He did his very best to make  
+The billows smooth and bright—  
+And this was odd, because it was  
+The middle of the night.  
+
+The moon was shining sulkily,  
+Because she thought the sun  
+Had got no business to be there  
+After the day was done—  
+"It's very rude of him," she said,  
+"To come and spoil the fun!"  
+
+## Last Verse
+<!--Put a short poem of your choice 8-20 lines,here!-->
+
+Tears fall in my heart  
+Rain falls on the town;  
+what is this numb hurt  
+that enters my heart?  
+Ah,the soft sound of rain  
+on roofs, on the ground!  
+To a dulled heart they came,  
+ah, the song of the rain!  
+Tears without reason  
+in the disheartened heart.  
+What? no trace of treason?  
+This grief's without reason.  
+It's far the worst pain  
+to never know why  
+without love or disdain  
+my heart has such pain!  
